@@ -1,5 +1,9 @@
 Locations of high quality fonts (mostly free)
 
+## IDE
+
+[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
 ## Legibility
 
 - [Andika](https://software.sil.org/andika/)
